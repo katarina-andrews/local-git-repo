@@ -11,15 +11,18 @@
 ## Part 3: Connecting to GitHub and Pushing Changes
 
 ![first](3.png)
+
 ![first](4.png)
 
 ## Part 4: Working with Branches
 
 ![first](5.png)
+
 ![first](6.png)
 
 ## Part 5: Merging vs. Rebasing
 
 ![first](7.png)
+
 ![first](8.png)
 
